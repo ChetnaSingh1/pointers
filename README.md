@@ -5,3 +5,4 @@ syntax:-
 data_type *var_name; 
 
 where, * is used to denote that “p” is pointer variable and not a normal variable.
+You can use pointer by two ways, either by calling it by value or by reference.
